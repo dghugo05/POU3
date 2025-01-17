@@ -45,9 +45,11 @@ You can download the directory build for the ``.exe`` program or the remaining f
 When you download the directory build, you only need to enter the directories till you see the executable file, the dependencies are integrated in the lib directiory, there's all the modules needed for the correct work of the programm.
 
 ##``.py`` file and ``Dependecias`` directory
+
 If you download the program by the ``.py`` file and the ``Dependencias`` directory you need to be aware about the next sections of the ``README`` to be able to run it.
 
   ###Dependencies
+  
   Ensure you have the following Python libraries installed:
 
   opencv-python for handling images and videos.
@@ -62,6 +64,7 @@ If you download the program by the ``.py`` file and the ``Dependencias`` directo
   
   
   ###File Structure
+  
   The script relies on the following directory structure:
   
   /path_to_script
@@ -75,6 +78,7 @@ If you download the program by the ``.py`` file and the ``Dependencias`` directo
   
 
   ###Usage
+  
   Download the CopiaPou3.py file and place it in a directory of your choice, ensuring that the above file structure is present.
   Open a terminal and navigate to the directory containing CopiaPou3.py.
   Run the script using the following command:

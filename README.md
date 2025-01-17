@@ -68,13 +68,21 @@ If you download the program by the ``.py`` file and the ``Dependencias`` directo
   The script relies on the following directory structure:
   
   /path_to_script
+  
   │
+  
   ├── Dependencias
+  
   │   ├── importaciones.py   # File with necessary imports
+  
   │   ├── multimedia          # Folder containing multimedia files
+  
   │   ├── copy.ps1           # PowerShell script to be executed
+  
   │   ├── Lista.txt          # Text file with a list of items
+  
   │   └── Lista_negra.txt    # Text file with a blacklist of items
+  
   
 
   ###Usage

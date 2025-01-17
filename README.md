@@ -8,33 +8,27 @@ I am presenting the main outline of the program, which has not yet been fully de
 
 The program consists of 6 challenges with their punishments and 2 breaks:
 
-Random Key: A random number between 1 and 30 is created, and the user needs to input the correct key.
+1.  Random Key: A random number between 1 and 30 is created, and the user needs to input the correct key.
+    Punishment: Every time the user fails, a random image or video from the ``Dependencias`` directory pops up on the screen.
 
-Punishment: Every time the user fails, a random image or video from the ``Dependencias`` directory pops up on the screen.
+2.  Equation: For the second challenge the user needs to solve a random equation.
+    Punishment: When the user fails, the program will consume memory until the device ceases to function.
 
-Equation: For the second challenge the user needs to solve a random equation.
+3.  Break: There's no punishment in this round, just a little break of 24 hours.
 
-Punishment: When the user fails, the program will consume memory until the device ceases to function.
+4.  Tic Tac Toe: In this challenge, the user needs to win a game against the program 3 times.
+    Punishment: If the user fails and the program wins 3 times, the program will disable the screen drivers.
 
-Break: There's no punishment in this round, just a little break of 24 hours.
+5.  Hangman: The user needs to guess a random word by inputting letters.
+    Punishment: ``Empty``
 
-Tic Tac Toe: In this challenge, the user needs to win a game against the program 3 times.
+6.  Break: Another break starts, and the program won't do anything for 72 hours.
 
-Punishment: If the user fails and the program wins 3 times, the program will disable the screen drivers.
+7.  File Search: A random file will be located in a random path on the device, and the user will need to find it.
+    Punishment: Every 5 minutes that pass on an internal timer, the program will consume 5% of the device's resources.
 
-Hangman: The user needs to guess a random word by inputting letters.
-
-Punishment: ``Empty``
-
-Break: Another break starts, and the program won't do anything for 72 hours.
-
-File Search: A random file will be located in a random path on the device, and the user will need to find it.
-
-Punishment: Every 5 minutes that pass on an internal timer, the program will consume 5% of the device's resources.
-
-``Empty``
-
-Punishment: If the user fails, the Bonzi Buddy malware will be installed on the device.
+8.  ``Empty``
+    Punishment: If the user fails, the Bonzi Buddy malware will be installed on the device.
 
 Extra Challenge:
 
